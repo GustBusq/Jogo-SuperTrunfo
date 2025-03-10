@@ -1,1 +1,4 @@
-# Jogo-SuperTrunfo
+Estrutura Carta: Armazena as informações de cada carta, como cidade, estado, PIB, população, entre outros.
+Menu Interativo: O menu permite ao usuário escolher o atributo para comparar entre as duas cartas. O switch é usado para capturar a escolha e definir o atributo escolhido.
+Lógica de Comparação: Dependendo do atributo escolhido, o código compara as cartas utilizando a lógica de if-else, considerando a regra especial para a densidade populacional (onde a menor densidade vence).
+Exibição do Resultado: O resultado é mostrado claramente na tela, incluindo os valores dos atributos comparados e o vencedor, com possibilidade de empate.
